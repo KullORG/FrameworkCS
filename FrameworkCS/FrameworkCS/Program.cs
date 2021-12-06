@@ -10,7 +10,7 @@ namespace FrameworkCS
     {
         static void Main(string[] args)
         {
-            
+            // THIS FILE IS MAINLY FOR TESTING
         }
     }
 }

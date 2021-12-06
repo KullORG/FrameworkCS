@@ -1,0 +1,11 @@
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\bin\Debug\FrameworkCS.exe.config
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\bin\Debug\FrameworkCS.exe
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\bin\Debug\FrameworkCS.pdb
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\bin\Debug\SHC.dll
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\bin\Debug\SHC.pdb
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.csproj.AssemblyReference.cache
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.csproj.SuggestedBindingRedirects.cache
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.csproj.CoreCompileInputs.cache
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.csproj.CopyComplete
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.exe
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\FrameworkCS\obj\Debug\FrameworkCS.pdb

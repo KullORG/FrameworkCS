@@ -1,0 +1,6 @@
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\bin\Debug\SHC.dll
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\bin\Debug\SHC.pdb
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\obj\Debug\SHC.csproj.AssemblyReference.cache
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\obj\Debug\SHC.csproj.CoreCompileInputs.cache
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\obj\Debug\SHC.dll
+D:\gitrepos\kull\FrameworkCS\FrameworkCS\SHC\obj\Debug\SHC.pdb
