@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f286cdbc-b3d2-4c16-8e26-677f5919d36c": {
+      "ProjectGuid": "f286cdbc-b3d2-4c16-8e26-677f5919d36c",
+      "DisplayName": "FrameworkCS",
+      "ColorIndex": 0
+    },
+    "84d8b3f6-7b45-46df-a185-06126bb0d8c7": {
+      "ProjectGuid": "84d8b3f6-7b45-46df-a185-06126bb0d8c7",
+      "DisplayName": "SHC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

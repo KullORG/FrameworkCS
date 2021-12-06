@@ -3,14 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SHC;
-namespace FrameworkCS
+
+namespace SHC
 {
-    internal class Program
+    public class Mth
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        // 
     }
 }

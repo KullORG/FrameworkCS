@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SHC
 {
-    public class Class1
+    public class Mth
     {
+        // short round (rnd)
+        public static void Rnd(double num)
+        {
+            Math.Round(num);
+        }
     }
 }
