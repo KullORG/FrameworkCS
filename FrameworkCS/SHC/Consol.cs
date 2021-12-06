@@ -19,14 +19,31 @@ namespace SHC
             Console.Write(text);
             
         }
-        // Console.Readline Consol.rl Console.ReadKey() Consol.rkn
+        // Console.Readline Consol.rl Console.ReadKey() Consol.rk
         public static string rl(string text)
         {
          return text;
         }
-        public static void rkn()
+        public static void rk()
         {
             Console.ReadKey();
         }
+        // Console.Beep Consol.Bip
+        public static void Bip()
+        {
+            Console.Beep();
+        }
+
+        // Console.Clear Consol.r
+        public static void Cls()
+        {
+            Console.Clear();
+        }
+        // Console.Read Consol.r
+        public static void r()
+        {
+            Console.Read();
+        }
+        
     }
 }

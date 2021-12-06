@@ -23,5 +23,11 @@ namespace SHC
         {
             return Math.Pow(a, b);
         }
+        // Math.Sqrt Mth.sqrt
+        public static double sqrt(double a)
+        {
+            return Math.Sqrt(a);
+        }
+        
     }
 }
