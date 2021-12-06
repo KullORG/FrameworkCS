@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fun.cs" />
     <Compile Include="Mth.cs" />
     <Compile Include="Consol.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
