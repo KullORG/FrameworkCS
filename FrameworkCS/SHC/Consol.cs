@@ -34,7 +34,7 @@ namespace SHC
             Console.Beep();
         }
 
-        // Console.Clear Consol.r
+        // Console.Clear Consol.cls
         public static void Cls()
         {
             Console.Clear();
